@@ -67,3 +67,7 @@ Thumbs.db
 *.temp
 .cache/
 .parcel-cache/
+# Backend media directories
+backend/audio/
+backend/videos/
+backend/images/
